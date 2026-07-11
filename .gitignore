@@ -1,0 +1,25 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Model/Data files (optional)
+*.pkl
+
+# Android
+.gradle/
+.idea/
+local.properties
+*.iml
+build/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# OS files
+Thumbs.db
+.DS_Store
