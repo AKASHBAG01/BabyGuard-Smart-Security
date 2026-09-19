@@ -1,6 +1,3 @@
-Copy and paste this entire content directly into the **`README.md`** file of your **BabyGuard-Smart-Security** repository:
-
-````markdown
 # 👶 BabyGuard Smart Security (BGSS)
 
 An AI-powered baby monitoring and surveillance system built with **Python, OpenCV, YOLO, Flask, and Android**.
