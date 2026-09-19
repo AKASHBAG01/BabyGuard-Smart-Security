@@ -416,34 +416,6 @@ http://YOUR_COMPUTER_IP:5000/
 
 ---
 
-# 📸 Screenshots
-
-Screenshots of the project can be added here.
-
-Recommended screenshots:
-
-```text
-screenshots/
-│
-├── dashboard.png
-├── live_camera.png
-├── android_home.png
-├── event_history.png
-└── family_members.png
-```
-
-Example:
-
-```markdown
-![AI Security Dashboard](screenshots/dashboard.png)
-
-![Android Live Camera](screenshots/live_camera.png)
-
-![Android Event History](screenshots/event_history.png)
-```
-
----
-
 # 🔮 Future Improvements
 
 * 🔔 Push Notifications
@@ -463,7 +435,7 @@ Example:
 
 # 👨‍💻 Developer
 
-**Akash Bag**
+**Akash kumar Bag**
 
 Electronics and Communication Engineering (ECE)
 
